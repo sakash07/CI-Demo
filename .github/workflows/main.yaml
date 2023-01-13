@@ -1,5 +1,5 @@
 name: GitHub Actions Demo
-run-name: Akash is testing out GitHub Actions 🚀
+run-name: Sharma is testing out GitHub Actions 🚀
 on: [push]
 
 jobs:
